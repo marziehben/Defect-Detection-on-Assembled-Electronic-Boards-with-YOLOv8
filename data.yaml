@@ -1,0 +1,12 @@
+names:
+- Defect
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: detection-with-yolov8
+  url: https://universe.roboflow.com/machine-vision-admgu/detection-with-yolov8/dataset/2
+  version: 2
+  workspace: machine-vision-admgu
+test: ../test/images
+train: ../train/images
+val: ../valid/images
