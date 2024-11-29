@@ -19,5 +19,15 @@ picture for false detect
 ![confusion_matrix](https://github.com/user-attachments/assets/ead2f681-4550-403c-b2a1-82a459ab61d4)
 
 
-
 ![results](https://github.com/user-attachments/assets/8489379c-03ef-49bb-8488-d36021a31802)
+
+
+
+![train_batch0](https://github.com/user-attachments/assets/41ae8a79-3eb1-44eb-81d9-3e0fc4ec3bbc)
+
+
+
+![train_batch1](https://github.com/user-attachments/assets/cc968bf0-e357-458c-9644-da5787363b73)
+
+
+
