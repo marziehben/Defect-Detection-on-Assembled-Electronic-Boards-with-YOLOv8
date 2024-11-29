@@ -1,5 +1,6 @@
 # Defect-Detection-on-Assembled-Electronic-Boards-with-YOLOv8
 determined samples that include pictures of different failure modes on electronic boards and labels that created with Roboflow. some pictures created with different shape &amp; resolution &amp; another changes. few member of sample batch caused low accuracy for new samples for detect (predict). this model created with Yolov5 too.
+beacause of better mAP, train4 selected.
 
 picture for true detect
 ![TrueDefect](https://github.com/user-attachments/assets/7fc81036-da74-4cc3-9b1f-7cc581eee6a5)
